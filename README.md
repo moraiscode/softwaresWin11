@@ -1,4 +1,4 @@
-![Skull](imagem.png)
+![Skull](skull.webp)
 
 # Software List by Category - Win11
 
