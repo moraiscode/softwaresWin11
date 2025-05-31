@@ -1,3 +1,5 @@
+![Skull](imagem.png)
+
 # Software List by Category - Win11
 
 ## Utilitários de Disco
